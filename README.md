@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Belal Hossain
-#### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D4D16AQErzbuTh8JIWQ/profile-displaybackgroundimage-shrink_350_1400/0/1688657131794?e=1694044800&v=beta&t=1yi7lmMMG0nwedCjjmvEwrj-3pHD_YK7o7KKJ_oo4ec)
+![Web Developer](https://media.licdn.com/dms/image/D4D16AQErzbuTh8JIWQ/profile-displaybackgroundimage-shrink_350_1400/0/1688657131794?e=1694044800&v=beta&t=1yi7lmMMG0nwedCjjmvEwrj-3pHD_YK7o7KKJ_oo4ec) 
+
+# Hi there 👋, I'm Belal Hossain
+## Web Developer
 
 I am a web developer with 5 years of experience. Web development is the process of creating websites and web applications. It involves designing, coding, and building the various elements that make up a website, including its layout, functionality, and interactivity. Web developers use programming languages such as HTML, CSS, and JavaScript also react-JS, and next-JS to create the front-end (client-side) components that users interact with. They also utilize server-side languages like PHP, Python, and node-JS to handle back-end processes and database management such as MySQL, MongoDB, PostgreSQL, etc. Web development encompasses a wide range of skills and technologies, including responsive design, content management systems (CMS), e-commerce platforms, and web security. 
 
